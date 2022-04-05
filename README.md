@@ -1,6 +1,6 @@
 ## Install ffmpeg macOS
 
-* Download ffmpeg: https://ffmpeg.org/download.html
+* Download ffmpeg zipped static binary: https://evermeet.cx/ffmpeg/
 
 * Extract ffmpeg Zip Double Click on Archive in Finder
 
