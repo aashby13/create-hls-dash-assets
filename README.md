@@ -2,6 +2,8 @@
 
 * Download ffmpeg zipped static binary: https://evermeet.cx/ffmpeg/
 
+* If other OS look here: https://ffmpeg.org/download.html
+
 * Extract ffmpeg Zip Double Click on Archive in Finder
 
 * Open Terminal or other command line tool
