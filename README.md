@@ -1,6 +1,6 @@
 ## Install ffmpeg macOS
 
-* Download ffmpeg: https://ffmpeg.zeranoe.com/builds/
+* Download ffmpeg: https://ffmpeg.org/download.html
 
 * Extract ffmpeg Zip Double Click on Archive in Finder
 
